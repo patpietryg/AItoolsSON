@@ -1,5 +1,13 @@
 # AItoolsSON
+My idea is to use artificial intelligence to chat with bank advisors and receive information from them. For example, receiving information about savings deposits for a specific amount.
 
+Why I chose chatgpt? Because he communicates very well with people.
+
+Below I present the implementation of this idea. At the beginning chatgpt must receive an appropriate prompt. This is where most problems arise. Chatgpt sometimes doesn't understand what is being asked of it. But with enough attempts, you can write the right promt. In the example below, I ALMOST managed to generate the appropriate prompt. Chatgpt started badly and asked for an investment offer instead of a savings offer.
+
+Chatgpt responses can be pasted via Selenium into the bank chat. This is where the problem of appropriate programming of the bank advisor's response time arises. Chatgpt responds quickly. A bank advisor can reply in just a few minutes.
+
+Cały skrypt może zostać wykorzystany w banku do automatyzacji porównywania ofert konkurencji.
 
 ![image](https://github.com/patpietryg/AItoolsSON/assets/109578063/6ca3c6c9-4927-47eb-ba4a-bc3fb8e3ec5c)
 ![image](https://github.com/patpietryg/AItoolsSON/assets/109578063/87d4760f-dfa6-4a62-ab6e-7f4929989a1f)
@@ -15,7 +23,7 @@
 ![image](https://github.com/patpietryg/AItoolsSON/assets/109578063/33d68e6c-b78a-457d-b9f7-f1397c0a370d)
 ![image](https://github.com/patpietryg/AItoolsSON/assets/109578063/c9d79764-46f7-4dca-9205-221d11eefa51)
 ![image](https://github.com/patpietryg/AItoolsSON/assets/109578063/016ffe12-6401-45d8-80e8-088ecbf4d4b0)
-![Uploading image.png…]()
+
 
 
 
